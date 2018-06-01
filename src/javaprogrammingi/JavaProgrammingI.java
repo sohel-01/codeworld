@@ -10,6 +10,10 @@ public class JavaProgrammingI {
          e1.setEmployeeId(1);
          e1.setEmployeeName("FirstEmployee");
          e1.display();
+         
+         
+         Arthimatic a1 = new Arthimatic();
+         System.out.println(a1.sum(10, 20));
     }
     
 }
