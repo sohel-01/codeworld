@@ -8,7 +8,7 @@ public class JavaProgrammingI {
        
         Employee e1 = new Employee();
          e1.setEmployeeId(1);
-         e1.employeeName("FirstEmp");
+         e1.setEmployeeName("FirstEmp");
     }
     
 }
