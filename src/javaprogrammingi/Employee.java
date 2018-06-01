@@ -21,5 +21,7 @@ public class Employee {
         this.employeeName = employeeName;
     }
     
-    
+    public void display(){
+        System.out.println("Hello Employee");
+    }
 }
